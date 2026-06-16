@@ -14,6 +14,8 @@ nav_order: 1
 3. One more item
 8. [My personal website](https://richmccue.com)
 
+![decorative](images/phone-listen-logo.png) 
+
 ## Why TOOL NAME HERE? 
 
 [TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
