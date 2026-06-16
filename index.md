@@ -14,7 +14,7 @@ nav_order: 1
 3. One more item
 8. [My personal website](https://richmccue.com)
 
-![decorative](images/phone-listen-logo.png) 
+![decorative](images/goats.jpg) 
 
 ## Why TOOL NAME HERE? 
 
