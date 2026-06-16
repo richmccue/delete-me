@@ -8,11 +8,11 @@ nav_order: 1
 
 # WORKSHOP TITLE HERE (Use Regular Case Like this)
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
-- One more item
-- [My personal website](https://richmccue.com)
+1. Pre-workshop activities: 00 min 
+2. Introductory presentation: 00 min
+5. Hands-on activities: 00-00 min
+3. One more item
+8. [My personal website](https://richmccue.com)
 
 ## Why TOOL NAME HERE? 
 
