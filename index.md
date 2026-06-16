@@ -11,6 +11,8 @@ nav_order: 1
 - Pre-workshop activities: 00 min 
 - Introductory presentation: 00 min
 - Hands-on activities: 00-00 min
+- One more item
+- [My personal website](https://richmccue.com)
 
 ## Why TOOL NAME HERE? 
 
